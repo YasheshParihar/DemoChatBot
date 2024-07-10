@@ -1,0 +1,9 @@
+streamlit
+pandas
+PIL
+Image
+re
+PyPDF2
+phonenumbers
+geocoder
+carrier
