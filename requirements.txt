@@ -1,6 +1,0 @@
-streamlit
-pandas
-PIL
-re
-PyPDF2
-phonenumbers
